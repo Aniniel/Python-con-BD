@@ -1,6 +1,9 @@
 # Python-con-BD
 
 Enunciados de las Operaciones DML sobre la Base de Datos del Hipódromo:
+Tablas Usadas:
+
+Caballos,Cuidadores,Carreras
 
 1. Listar información:
 
